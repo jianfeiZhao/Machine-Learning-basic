@@ -1,1 +1,1 @@
-# An optimization method called gradient descent.
+## An optimization method called gradient descent.
