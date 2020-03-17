@@ -1,1 +1,1 @@
-## We implement the algorithm and use sklearn to test
+## We implement the knn classifier algorithm and use sklearn to test
