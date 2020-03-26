@@ -3,5 +3,5 @@
 Some abbreviations:
 * GD: Gradient Descent
 * SGD: Stochastic Gradient Dscent
-* knn: k-nearest neighbour
+* kNN: k-nearest neighbour
 * SVM: Support Vector Machine
