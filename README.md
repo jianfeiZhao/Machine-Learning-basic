@@ -5,3 +5,5 @@ Some abbreviations:
 * SGD: Stochastic Gradient Dscent
 * kNN: k-nearest neighbour
 * SVM: Support Vector Machine
+
+![](https://github.com/jianfeiZhao/Machine-Learning-basic/blob/master/Images/01.jpg)
